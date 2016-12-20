@@ -1,0 +1,6 @@
+C:\Users\Christina_R\Desktop\Для универа\4 курс\СПО\СПО4\СПО4\bin\Debug\СПО4.exe.config
+C:\Users\Christina_R\Desktop\Для универа\4 курс\СПО\СПО4\СПО4\bin\Debug\СПО4.exe
+C:\Users\Christina_R\Desktop\Для универа\4 курс\СПО\СПО4\СПО4\bin\Debug\СПО4.pdb
+C:\Users\Christina_R\Desktop\Для универа\4 курс\СПО\СПО4\СПО4\obj\Debug\СПО4.csprojResolveAssemblyReference.cache
+C:\Users\Christina_R\Desktop\Для универа\4 курс\СПО\СПО4\СПО4\obj\Debug\СПО4.exe
+C:\Users\Christina_R\Desktop\Для универа\4 курс\СПО\СПО4\СПО4\obj\Debug\СПО4.pdb
